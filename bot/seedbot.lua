@@ -219,31 +219,35 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "leave_ban"
+    "helprealm",
+    "block",
+    "plugins",
+    "tagall",
+    "Feedback",
+    "Cover",
+    "addwili",
+    "tosupport",
+    "nerkh",
+    "linkpv",
+    "cgp",
+    "feedback",
+    "ctrl"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {94704012,160426021)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
+    about_text = [[W_SaTaN_W v 12.7 (beta) - Close Source
+An Advance Administration Bot Based On SEEDTEAM/TeleSeed 
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
+@WilSoN_DeVeLoPeR
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+Alfred ( 6 1 5 )
+Amir
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@W_SaTaN_W_chnnl
 ]],
     help_text_realm = [[
 Realm Commands:
