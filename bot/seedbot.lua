@@ -233,7 +233,7 @@ function create_config( )
     "feedback",
     "ctrl"
     },
-    sudo_users = {94704012,160426021)},--Sudo users
+    sudo_users = {94704012,160426021},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[W_SaTaN_W v 12.7 (beta) - Close Source
