@@ -142,7 +142,7 @@ return {
     "^[!/@#$&]([Ss]tatslist)$",                         
     "^[!/@#$&]([Ss]tats) (group) (%d+)",           
     "^[!/@#$&]([Ss]tats) (megasatan)",-- Put everything you like :)
-    "^[!/@#$&]([Mm]egasatan)"-- Put everything you like :)
+    "^[!/@#$&]([Mm]egasatan)",-- Put everything you like :)
     "^([Ss]tats)$",             
     "^([Ss]tatslist)$",         
     "^([Ss]tats) (group) (%d+)",
